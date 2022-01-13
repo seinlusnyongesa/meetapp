@@ -1,0 +1,6 @@
+.container {
+  width: 600px;
+  padding: 8px;
+  border: 1px solid rebeccapurple;
+  background-color: rgb(189, 186, 186);
+}

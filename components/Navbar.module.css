@@ -1,0 +1,23 @@
+.nav {
+  background-color: teal;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  align-items: center;
+}
+
+.hover:hover {
+  color: white;
+  cursor: pointer;
+}
